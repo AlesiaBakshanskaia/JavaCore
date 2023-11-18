@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"java_core.lesson1.regular","l":"DateAndTimeNow"},{"p":"java_core.lesson1.regular","l":"Decorator"},{"p":"java_core.lesson1.sample","l":"Main"}];updateSearchResults();
